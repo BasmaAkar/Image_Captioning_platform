@@ -1,7 +1,7 @@
 # Image-Captioning-Platform-For-Education-Purposes
 Generates Arabic captions for images of Laboratory Equipements.
 
-
+(https://github.com/myyla/Image-Captioning-Platform/assets/96894475/bdb0f9a3-8f01-4cb2-b7c9-d95271d91126)
 Dataset: [./data/DataSet_2/Flickr_TextData/Flickr8k.arabic.full.txt](./data/DataSet_2/Flickr_TextData/Flickr8k.arabic.full.txt)
 
 Report: [here]()
